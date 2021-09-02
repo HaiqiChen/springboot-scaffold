@@ -1,0 +1,9 @@
+# Project exclude paths
+/api/springboot-one-api/target/
+/common/target/
+/common-db/target/
+/core/core-controller/target/
+/core/core-feign/target/
+/gateway/gateway-one/target/
+/service/springboot-one/target/
+/service/springboot-two/target/

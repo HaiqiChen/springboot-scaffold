@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-two" />
+        <module name="common" />
+        <module name="core-feign" />
+        <module name="springboot-one" />
+        <module name="gateway-one" />
+        <module name="springboot-two-api" />
+        <module name="springboot-one-api" />
+        <module name="common-db" />
+        <module name="core-controller" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="common-db" options="-parameters" />
+      <module name="core" options="-parameters" />
+      <module name="core-controller" options="-parameters" />
+      <module name="core-feign" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="gateway-one" options="-parameters" />
+      <module name="service" options="-parameters" />
+      <module name="springboot-one" options="-parameters" />
+      <module name="springboot-one-api" options="-parameters" />
+      <module name="springboot-two" options="-parameters" />
+      <module name="springboot-two-api" options="-parameters" />
+    </option>
+  </component>
+</project>
