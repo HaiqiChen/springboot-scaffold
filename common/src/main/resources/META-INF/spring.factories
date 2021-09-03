@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.chq.common.context.SkepContextHolder,\
+com.chq.common.properties.SkepConfigProperties,\
+com.chq.common.aop.ResponseAspect,\
+com.chq.common.exception.GlobalExceptionTranslator

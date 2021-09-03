@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d70c3920-8104-4d6b-9549-cf284bd37237" name="Default Changelist" comment="" />
+    <list default="true" id="d70c3920-8104-4d6b-9549-cf284bd37237" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/aop/ResponseAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/api/IResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/api/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/api/RestResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/api/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/bean/UserBaseInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/bean/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/context/SkepContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/constant/CommonConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/constant/CommonStatusConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/constant/GlobalConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/constant/HttpStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/text/CharsetKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/text/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/text/StrFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/utils/AopUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/utils/CacheMapUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/utils/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/utils/MethodUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/core/utils/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/exception/GlobalExceptionTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/exception/NotFoundExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/exception/ServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/filter/TraceFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/param/ApiParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/param/ICheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/param/PageParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/properties/SkepConfigProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/properties/SkepRestAopConfigProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/chq/common/properties/Swagger2ConfigProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/core-feign/src/main/java/com/chq/core/config/FeignConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/gateway-one/src/main/java/com/chq/filter/HeaderFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/springboot-one/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/springboot-one/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/springboot-one/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/springboot-one/src/main/java/com/chq/SpringBootOneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/springboot-one/src/main/java/com/chq/SpringBootOneApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/springboot-one/src/main/java/com/chq/controller/SysUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/springboot-one/src/main/java/com/chq/controller/SysUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/springboot-one/src/main/java/com/chq/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/springboot-one/src/main/java/com/chq/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/springboot-one/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/springboot-one/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +66,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -29,16 +77,20 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\repository" />
-        <option name="mavenHome" value="D:\apache-maven-3.8.1-bin\apache-maven-3.8.1" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
+        <option name="userSettingsFile" value="D:\aa\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1xZ8EEiw6yIESnRNFjNIAQUPITP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,34 +102,35 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/springboot-two/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IdeaProjects\springboot-scaffold\service\springboot-two\src\main\resources" />
-      <recent name="D:\IdeaProjects\springboot-scaffold\core\core-controller\src\main\java\com\chq\core\controller" />
+      <recent name="D:\IdeaProjects\springboot-scaffold\common\src\main\resources" />
+      <recent name="D:\IdeaProjects\springboot-scaffold\common\src\main\java\com\chq\common" />
       <recent name="D:\IdeaProjects\springboot-scaffold\common\src\main\java\com\chq\common\exception" />
-      <recent name="D:\IdeaProjects\springboot-scaffold\api\src\main\java\com\chq\pojo" />
-      <recent name="D:\IdeaProjects\springboot-scaffold\common\src\main\java\com\chq\common\pojo" />
+      <recent name="D:\IdeaProjects\springboot-scaffold\service\springboot-one\src\main\java\com\chq" />
+      <recent name="D:\IdeaProjects\springboot-scaffold\service\springboot-one\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.chq.controller" />
-      <recent name="com.chq.core.feign" />
-      <recent name="com.chq.configuration" />
-      <recent name="com.chq.mapper" />
-      <recent name="" />
+      <recent name="com.chq.common.properties" />
+      <recent name="com.chq.core.config" />
+      <recent name="com.chq.common.config" />
+      <recent name="com.chq.common.context" />
+      <recent name="com.chq.common.aop" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootTwoApplication">
+  <component name="RunManager" selected="Spring Boot.SpringBootOneApplication">
     <configuration name="MysqlGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MysqlGenerator" />
       <module name="common-db" />
@@ -137,9 +190,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringBootTwoApplication" />
-        <item itemvalue="Spring Boot.GatewayApplication" />
         <item itemvalue="Spring Boot.SpringBootOneApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.SpringBootTwoApplication" />
         <item itemvalue="Application.MysqlGenerator" />
       </list>
     </recent_temporary>
@@ -152,11 +205,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630551138119</updated>
-      <workItem from="1630551139396" duration="22234000" />
+      <workItem from="1630551139396" duration="44092000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

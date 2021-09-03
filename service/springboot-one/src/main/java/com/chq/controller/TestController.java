@@ -23,6 +23,16 @@ public class TestController extends AbstractCoreController<SysUser> {
         super(userService);
     }
 
-    // TODO: 2021/9/2 第二天的对称加密
+    // TODO: 2021/9/2 对称加密 2
     // TODO: 2021/9/2 网关的配置方式及其含义
+    // TODO: 2021/9/2 分布式文件系统 4
+    // TODO: 2021/9/2 kafka 和内容安全 6  支持对图片、视频、文本、语音等对象进行多样化场景检测
+    // TODO: 2021/9/2 雪花算法集成mybatis-plus
+    // TODO: 2021/9/2 分布式任务调度 8
+    // TODO: 2021/9/2 mongodb 11
+    // TODO: 2021/9/2 kibana 12
+    // TODO: 2021/9/2 kafka strem  13
+    // TODO: 2021/9/2 分布式事务 ，setae 14
+    // TODO: 2021/9/2 分布式链路追踪  以及其他技术  15
+    // TODO: 2021/9/2
 }
