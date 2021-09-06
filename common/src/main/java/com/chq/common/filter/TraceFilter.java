@@ -22,7 +22,7 @@ public class TraceFilter implements Filter, Ordered {
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
         HttpServletRequest request = (HttpServletRequest) servletRequest;
         // TODO: 2021/9/3
-        String requestId = UUID.randomUUID().toString();
+        String requestId = request.getHeader("REQUEST_ID");
         MDC.put("REQUEST_ID", UUID.randomUUID().toString());
         try {
             ((HttpServletResponse) servletResponse).setHeader("REQUEST_ID", requestId);
