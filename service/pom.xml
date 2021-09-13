@@ -15,6 +15,7 @@
     <modules>
         <module>springboot-one</module>
         <module>springboot-two</module>
+        <module>springboot-authorizationServer</module>
     </modules>
     <dependencies>
         <dependency>

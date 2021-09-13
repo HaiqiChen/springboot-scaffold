@@ -64,3 +64,13 @@ server:
     max-http-post-size: 10485760
     allow-unescaped-characters-in-url: true
 
+skep:
+  syscode: 'hello'
+  # swagger配置
+  swagger:
+    version: 1.0
+    title: test
+    #rest响应aop
+    base-package: com.chq
+  rest-aop:
+    base-packages: com.chq

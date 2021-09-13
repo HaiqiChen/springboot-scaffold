@@ -9,9 +9,7 @@ import lombok.NoArgsConstructor;
 
 import java.beans.Transient;
 
-/**
- * @author jiawen5.chen
- */
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

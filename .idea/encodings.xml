@@ -8,6 +8,8 @@
     <file url="file://$PROJECT_DIR$/core/core-controller/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/core/core-feign/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gateway/gateway-one/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gatewaycommon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service/springboot-authorizationServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/springboot-one/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service/springboot-two/src/main/java" charset="UTF-8" />
   </component>
